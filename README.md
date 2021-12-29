@@ -17,5 +17,3 @@ I have over three years of programming experience, and I'd like to go into ethic
 
 This will only cover what I have learnt, but I hope it will help others understand the learning process.
 
-
-# GO TO THE NEXT PAGE -> 
