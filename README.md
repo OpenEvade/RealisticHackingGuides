@@ -1,4 +1,4 @@
-# Introduction#
+# Introduction
 
 
 Hello, in this tutorial, I'll be sharing my learning experience throughout time.
@@ -6,7 +6,7 @@ Hello, in this tutorial, I'll be sharing my learning experience throughout time.
 This project will cover the fundamentals of Metasploit attacks, exploit development, and penetration testing.
 
 
-# A little about myself:#
+# A little about myself:
 
 
 MrTwsT from OpenEvade here.
